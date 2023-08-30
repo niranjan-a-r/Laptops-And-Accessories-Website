@@ -78,4 +78,9 @@ h2{
     height: fit-content;
     border: black;
     border-radius: 5px;
+    cursor: pointer;
+}
+.buy-button: hover{
+    cursor: pointer;
+    border: black;
 }
